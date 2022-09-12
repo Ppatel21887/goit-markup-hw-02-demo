@@ -1,0 +1,124 @@
+/*styling for header*/
+.body {
+  color: #212121;
+  font-family: "roboto", "sans-serif";
+  font-style: normal;
+  line-height: 1.5;
+}
+.button {
+  color: #2196f3;
+  font-family: raleway;
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+}
+.button-studio {
+  color: #2196f3;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+.button-portfolio {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+.button-contacts {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+.link-email {
+  color: #2196f3;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+.link-tel {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+/*styling for main*/
+
+.title {
+  color: #ffffff;
+  background-color: #2f303a;
+  font-weight: 900;
+  font-size: 44px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.button-click {
+  background-color: #2196f3;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+.text {
+  background-color: #2f303a;
+}
+.text-webstudio {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.link {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+/*styling for border color when hovering or focusing*/
+a:hover,
+a:focus {
+  border-style: solid;
+  border-color: tomato;
+}
+h1:hover,
+h1:focus {
+  border-style: solid;
+  border-color: tomato;
+}
+button:hover,
+button:focus {
+  cursor: pointer;
+  border-style: solid;
+  border-color: tomato;
+}
+h3:hover,
+h3:focus {
+  border-style: solid;
+  border-color: tomato;
+}
+p:hover,
+p:focus {
+  border-style: solid;
+  border-color: tomato;
+}
+h2:hover,
+h2:focus {
+  border-style: solid;
+  border-color: tomato;
+}
+img:hover,
+img:focus {
+  border-style: solid;
+  border-color: tomato;
+}
